@@ -7,7 +7,7 @@ PA1: 96.0/100
 	-2 (lextestc1.test) spotcheck for unnested comments.  
 
 PA2: 100/100  
-PA3: 86.8/103.6
+PA3: 86.8/103.6  
   	-1.4 (list.cl.test)  List program  
 	-1.4 (self-assignment.test)  Assignment to self (illegal)  
 	-1.4 (staticdispatch.test)  Simple static dispatch  
